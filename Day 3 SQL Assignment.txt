@@ -1,0 +1,3 @@
+create database sales;
+
+create table orders(order_id Int ,customer_id Int ,order_date DATE,order_total  decimal);
