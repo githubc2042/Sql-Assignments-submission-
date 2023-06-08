@@ -1,0 +1,3 @@
+create database rahul;
+
+create table test (task_id Integer ,task_name varchar(50),description varchar(200),is_completed varchar(30) ,Primary key (task_id ));
